@@ -1,0 +1,27 @@
+{
+  "name": "whodoyou_categories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "eslintConfig": {
+    "extends": "google"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adviceinteractivegroup/whodoyou_categories.git"
+  },
+  "author": "Advice Interactive Group",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adviceinteractivegroup/whodoyou_categories/issues"
+  },
+  "homepage": "https://github.com/adviceinteractivegroup/whodoyou_categories#readme"
+}
